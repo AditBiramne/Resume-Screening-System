@@ -1,9 +1,9 @@
 Resume/
 ├── app.py
 ├── templates/
-│   └── upload.html
+│ └── upload.html
 └── static/
-    └── styles.css
+└── styles.css
 
       /\
      /  \
