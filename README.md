@@ -5,7 +5,6 @@ Resume/
 └── static/
     └── styles.css
 
-    
       /\
      /  \
     /____\
